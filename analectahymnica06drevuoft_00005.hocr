@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica06drevuoft_00005.png"; bbox 0 0 1656 2674; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 285 146 1480 250">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 285 146 1480 250">
+     <span class='ocr_line' id='line_1_1' title="bbox 285 146 1480 250; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 285 154 877 250; x_wconf 76' lang='lat' dir='ltr'><strong>ANALEOTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 949 146 1480 248; x_wconf 76' lang='lat' dir='ltr'><strong>HYMNICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 640 355 1116 413">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 640 355 1116 413">
+     <span class='ocr_line' id='line_1_2' title="bbox 640 355 1116 413; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 640 355 878 413; x_wconf 75' lang='lat' dir='ltr'>MEDH</span> <span class='ocrx_word' id='word_1_4' title='bbox 917 355 1116 412; x_wconf 75' lang='lat' dir='ltr'><strong>AEVI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 840 686 911 728">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 840 686 911 728">
+     <span class='ocr_line' id='line_1_3' title="bbox 840 686 911 728; baseline -0.014 0"><span class='ocrx_word' id='word_1_5' title='bbox 840 686 911 728; x_wconf 72' lang='lat' dir='ltr'><strong>VI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 381 817 1365 877">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 381 817 1365 877">
+     <span class='ocr_line' id='line_1_4' title="bbox 381 817 1365 877; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 381 820 743 877; x_wconf 70' lang='lat' dir='ltr'><strong>UDALRIOUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 780 821 885 876; x_wconf 69' lang='lat' dir='ltr'><strong>WE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 893 820 924 877; x_wconf 76' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_9' title='bbox 935 820 966 877; x_wconf 74' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_10' title='bbox 977 817 1365 876; x_wconf 61' lang='lat' dir='ltr'><strong>OFONTANUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 233 1011 1525 1114">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 233 1011 1525 1114">
+     <span class='ocr_line' id='line_1_5' title="bbox 233 1011 1525 1114; baseline 0.001 -3"><span class='ocrx_word' id='word_1_11' title='bbox 233 1011 492 1112; x_wconf 72' lang='lat' dir='ltr'>Ulrioh</span> <span class='ocrx_word' id='word_1_12' title='bbox 557 1012 934 1113; x_wconf 63' lang='lat' dir='ltr'><strong>Stoclzlins</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 996 1045 1145 1114; x_wconf 81' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1201 1012 1525 1113; x_wconf 76' lang='lat' dir='ltr'><strong>Rottach</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 346 1233 1395 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 346 1233 1395 1332">
+     <span class='ocr_line' id='line_1_6' title="bbox 346 1233 1395 1332; baseline 0.003 -23"><span class='ocrx_word' id='word_1_15' title='bbox 346 1233 783 1332; x_wconf 62' lang='lat' dir='ltr'>Reimgebebe</span> <span class='ocrx_word' id='word_1_16' title='bbox 823 1236 968 1311; x_wconf 79' lang='lat' dir='ltr'><strong>und</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1007 1235 1395 1312; x_wconf 69' lang='lat' dir='ltr'>Leselieder</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 586 1603 1156 1655">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 586 1603 1156 1655">
+     <span class='ocr_line' id='line_1_7' title="bbox 586 1603 1156 1655; baseline 0.011 -7"><span class='ocrx_word' id='word_1_18' title='bbox 586 1603 747 1651; x_wconf 74' lang='lat' dir='ltr'>Guido</span> <span class='ocrx_word' id='word_1_19' title='bbox 780 1603 941 1652; x_wconf 77' lang='lat' dir='ltr'>Maria</span> <span class='ocrx_word' id='word_1_20' title='bbox 970 1606 1156 1655; x_wconf 77' lang='lat' dir='ltr'><strong>Dreves</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
